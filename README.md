@@ -11,7 +11,7 @@ https://wireframe.cc/hvFPas
 ### A partir de la página web que se te proporciona, debes emplear el atributo style para crear una página web que tenga el mismo aspecto que la siguiente imagen:
 
 Tienes que tener en cuenta los siguientes requisitos
-* Texto Principal <main>
+* Texto Principal - etiqueta "main"
   * El color del texto es azul: #00F.
   * El color de fondo de la etiqueta <main></main> es verde claro: #CFC.
   * El tipo de letra es la secuencia: Georgia, 'Times New Roman', Times, serif;
@@ -36,7 +36,7 @@ Tienes que tener en cuenta los siguientes requisitos
   * Texto en negrita - "font-weight:bold".
   * El color del fondo es: #6b6060;
 * El texto "Hypertext Markup Language", "Cascading Style Sheets" y los acrónimos "HTML" y "CSS":
-  * Utiliza etiqueta <em>
+  * Utiliza etiqueta "em"
   * El color del texto es blanco: #FFF.
   * El color de fondo del texto es negro: #000.
   * Texto en cursiva.
