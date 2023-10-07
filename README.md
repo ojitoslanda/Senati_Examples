@@ -5,4 +5,4 @@ WIREFRAME - mockup
 https://wireframe.cc/hvFPas
 
 
-![Descripción de la imagen](/public/imagen/Myblog.PNG)
+![Descripción de la imagen](/public/imagen/Myblog.png)
