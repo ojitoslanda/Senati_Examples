@@ -21,11 +21,11 @@ Tienes que tener en cuenta los siguientes requisitos
   * El ancho de la imagen es: 50%
   * El alto de la imagen es: 50%
   * Para poder poner la imagen el centro utilizamos: display: block; margin: 0 auto;
-* El encabezado nivel 1
+* El encabezado nivel 1 - etiqueta "h1"
   * El color del texto es rojo claro: #F00.
   * El tipo de letra es la secuencia: Verdana, Calibri, sans-serif.
   * El tamaño del texto: 32px.
-* El encabezado nivel 2
+* El encabezado nivel 2 - etiqueta "h2"
   * El color del texto es rojo claro: #A00.
   * El tipo de letra es la secuencia: Verdana, Calibri, sans-serif.
   * El tamaño del texto: 24px.
@@ -60,14 +60,38 @@ Consejo: puedes utilizar la etiqueta de HTML <span> para aplicar un estilo CSS a
                 <li><span>ISBN:</span></li>
             </ol>
             <h2 class="subTitulos">Descripción del libro</h2>
-            <p></p>
-            <p></p>
+            <p>
+                Aunque los inicios de <span>Internet</span> 
+                Web se remontan a los años sesenta, no ha sido
+                hasta los años noventa cuando.
+            </p>
+            <p>
+               Todas las páginas están internamente construidas con la misma tecnología, con el Lenguaje de marcas de
+                hipertexto (Hypertext Markup Language, HTML) y con las Hojas de estilo en cascada (Cascading Style
+                    Sheets,
+                    CSS).
+            </p>
             <h2 class="subTitulos">Contenido del libro</h2>
             <p></p>
             <ul>
-                <li><em>HTML</em></li>
-                <li></li>
-                <li></li>
+ <li>Los estándares que define su funcionamiento como
+                    <em>HTML</em> y CSS,
+                    empleados para el desarrollo de las páginas web en el lado del cliente.
+                </li>
+
+                <li>En la segunda parte se trabaja. Partiendo de la estructura básica de una página web,
+                    se explican
+                    las etiquetas de HTML que se utilizan para definir el texto, los enlaces, las listas, las
+                    tablas, los
+                    formularios y los elementos multimedia.</li>
+
+                <li>En la tercera y última parte se explica CSS, el lenguaje que se emplea para definir el
+                    formato y la
+                    presentación de una página web. Se explica cómo utilizar el color, cómo definir la presentación del
+                    texto, de las tablas y de los formularios; cómo realizar transformaciones y transiciones con el fin
+                    de
+                    diseñar una página web.</li>
+            </ul>
             </ul>
         </div>
         <div class="box-model">
